@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ileana Lopez García</h1>
+<h1 align="center">Hola 👋, soy Ileana Lopez García</h1>
 <h3 align="center">Soy una médica argentina apasionada por la tecnología y el desarrollo. Me aventuré en este fascinante mundo y descubrí un universo de posibilidades que me inspiran a aprender y colaborar constantemente.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contáctame:</h3>
 <p align="left">
 <a href="https://twitter.com/ileanalopez91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ileanalopez91" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ileana fernanda lópez garcía" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ileana fernanda lópez garcía" height="30" width="40" /></a>
