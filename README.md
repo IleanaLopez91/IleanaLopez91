@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy Ileana Lopez García</h1>
 
 ## Acerca de mí
-<h2 align="center">Soy una médica argentina apasionada por la tecnología y el desarrollo. Me aventuré en este fascinante mundo y descubrí un universo de posibilidades que me inspiran a aprender y colaborar constantemente. Me gradué del bootcamp de SoyHenry como desarrollador web Full Stack, y actualmente estoy explorando la implementación de nuevas tecnologías y lenguajes de programación para mantenerme al día con las tendencias de la industria. Estoy comprometida con el aprendizaje continuo y busco activamente oportunidades para mejorar mis habilidades técnicas y expandir mis conocimientos en el desarrollo de software.</h2>
+
+Soy una médica argentina apasionada por la tecnología y el desarrollo. Me aventuré en este fascinante mundo y descubrí un universo de posibilidades que me inspiran a aprender y colaborar constantemente. Me gradué del bootcamp de SoyHenry como desarrollador web Full Stack, y actualmente estoy explorando la implementación de nuevas tecnologías y lenguajes de programación para mantenerme al día con las tendencias de la industria. Estoy comprometida con el aprendizaje continuo y busco activamente oportunidades para mejorar mis habilidades técnicas y expandir mis conocimientos en el desarrollo de software.
 
 ## Intereses
 
